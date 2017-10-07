@@ -1,11 +1,13 @@
 name       : haskell-cairo
 version    : 0.13.3.1
-release    : 1
+release    : 2
 source     :
     - http://hackage.haskell.org/package/cairo-0.13.3.1/cairo-0.13.3.1.tar.gz : a3ca197c6d63875686ed8129530771f945fbd954ab8283841ad238da233d675a
 license    : BSD-3-Clause
 component  : programming.haskell
-summary    : Cairo is a library to render high quality vector graphics. There exist various backends that allows rendering to Gtk windows, PDF, PS, PNG and SVG documents, amongst others.
+summary    : Cairo is a library to render high quality vector graphics. There exist
+    various backends that allows rendering to Gtk windows, PDF, PS, PNG and SVG documents,
+    amongst others.
 description: |
     Cairo is a library to render high quality vector graphics. There exist various backends that allows rendering to Gtk windows, PDF, PS, PNG and SVG documents, amongst others.
 builddeps  :
