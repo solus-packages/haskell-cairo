@@ -19,70 +19,78 @@
 </Description>
         <PartOf>programming.haskell</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Paths.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Paths.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Paths.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Text.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Text.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Text.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Region.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Region.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Region.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Image.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Image.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Image.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PS.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PS.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/PS.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Utilities.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Utilities.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Internal/Utilities.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Matrix.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Matrix.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Matrix.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Types.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Types.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/Graphics/Rendering/Cairo/Types.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.3.1/libHScairo-0.13.3.1-DfBUk6cxeejCRkeewnjvDU-ghc8.0.1.so</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-cairo-0.13.3.1.conf</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Cairo.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Paths.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Paths.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Paths.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Patterns.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Text.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Text.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Text.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Drawing/Transformations.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Fonts/FontOptions.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Region.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Region.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Region.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Image.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Image.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Image.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PDF.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PNG.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PS.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PS.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/PS.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/SVG.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Surfaces/Surface.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Utilities.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Utilities.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Internal/Utilities.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Matrix.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Matrix.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Matrix.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Types.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Types.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/Graphics/Rendering/Cairo/Types.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/cairo-0.13.5.0/libHScairo-0.13.5.0-Ie87XExCMvz557nh0Z1jRc-ghc8.0.1.so</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-cairo-0.13.5.0.conf</Path>
             <Path fileType="doc">/usr/share/doc</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/CairoGhci.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Clock.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Drawing.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Drawing2.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Graph.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Makefile</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/StarAndRing.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/Text.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.3.1/cairo-clock-icon.png</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/cairo-clock-icon.png</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/CairoGhci.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Clock.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Drawing.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Drawing2.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Graph.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Makefile</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/StarAndRing.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk2/Text.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/CairoGhci.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Clock.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Drawing.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Drawing2.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Graph.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Makefile</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/StarAndRing.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/cairo-0.13.5.0/gtk3/Text.hs</Path>
         </Files>
     </Package>
     <Package>
@@ -92,16 +100,16 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="2">haskell-cairo</Dependency>
+            <Dependency release="3">haskell-cairo</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2017-10-07</Date>
-            <Version>0.13.3.1</Version>
+        <Update release="3">
+            <Date>2018-04-28</Date>
+            <Version>0.13.5.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
             <Email>bmeyers@datadrake.com</Email>
