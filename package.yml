@@ -1,6 +1,6 @@
 name       : haskell-cairo
 version    : 0.13.5.0
-release    : 4
+release    : 5
 source     :
     - https://hackage.haskell.org/package/cairo-0.13.5.0/cairo-0.13.5.0.tar.gz : 420acd81e0b5578ad188bcdd38463135293c233221abb741cc4004d4c8a6bef3
 license    : BSD-3-Clause
@@ -23,8 +23,10 @@ builddeps  :
     - haskell-text-devel
     - haskell-utf8-string
     - haskell-vector-devel
+optimize   : no-symbols
+networking : yes
 setup      : |
-    %cabal_configure
+    %cabal_configure --dynlibdir="\$libdir/\$compiler/\$pkgid"
 build      : |
     %cabal_build
 install    : |
